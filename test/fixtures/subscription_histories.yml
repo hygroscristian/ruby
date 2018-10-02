@@ -1,0 +1,9 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  canceled_times: MyString
+  subscription_id: 1
+
+two:
+  canceled_times: MyString
+  subscription_id: 1
